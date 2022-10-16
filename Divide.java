@@ -1,4 +1,5 @@
 public class Divide {
+    //simple code to print the division quotient of two integers
     public static void main(String[] args) {
         int a = 10;
         int b = 0;
